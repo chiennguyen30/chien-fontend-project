@@ -1,0 +1,88 @@
+
+#main{
+	text-align: center;
+	background-color: #757575;
+	width: 1520px;
+	height: 680px;
+}
+
+.form-center {
+	text-align: center;
+}
+
+
+.margin-top{
+	margin-top: 50px;
+}
+
+.font-size{
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+.kich-thuoc{
+	color: orange;
+	font-size: 20px;
+}
+
+.kich-thuoc-cau2 {
+	color: orange;
+	font-size: 30px;
+}
+
+.dang-nhap{
+	margin-top: 22px;
+	padding : 20px 20px;
+	font-size: 40px;
+	color: red;
+	background-color: #333;
+	text-decoration: none;
+	border-radius: 0.5em;
+	
+}
+.dang-nhap:hover {
+	cursor: pointer;
+	color: #000;
+	background-color: #ccc;
+}
+
+.color{
+	color: red;
+	background-color: aqua;
+	text-transform: capitalize;
+}
+
+.color-3 {
+	text-align: center;
+	color: red;
+	background-color: black;
+	height: 40px;
+}
+
+.background-cau3 {
+	background-color: yellow;
+	font-size: 16px;
+}
+
+.gioi-tinh {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.sub-main{
+	text-align: right;
+	width: 1400px;
+	height: 70px;
+}
+.sub-main .sub-b-1 {
+	float: left;
+}
+
+.chu-dam {
+	width: 60px;
+	height: 60px;
+
+	
+
+}
+
